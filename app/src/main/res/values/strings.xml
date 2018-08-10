@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Attendee</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_welcome_party">WelcomeParty</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_first_time">FirstTimeActivity</string>
+    <string name="sign_in_check">Click the button below to scan your QR Code and sign in!</string>
+    <string name="sign_out_check">Click on the button below to sign out</string>
+    <string name="Attendee">Attendee</string>
+    <string name="exit">Exit</string>
+    <string name="back">Back</string>
+    <string name="attendee_description">This app will enable you to sign in and out of events by scanning the special QR code assigned to you!.</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="instructions">Click the button below to Sign in, Sign out or Check out our other services</string>
+</resources>
